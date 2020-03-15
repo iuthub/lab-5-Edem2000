@@ -15,7 +15,7 @@ hr {
     border: 1px solid #D8C858;
 }
 
-h1, h2 {
+h1, h2, h3{
     font-family: sans-serif;
     text-align: center;
 }
@@ -24,3 +24,4 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
+
